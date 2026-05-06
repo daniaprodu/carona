@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 
 const MASTER_KEY = '$2a$10$jVbWYJfM5JDHuWwow8Rpve8NXUY.hbdTTHXc6R8XY1KL/9uGI1QdG';
 const BIN_NAME = 'carona-guaruja';
